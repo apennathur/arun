@@ -4,8 +4,6 @@ title: Grants
 permalink: /grants/
 ---
 
-## Grants
-
 1. *Principal Investigator (Co-PI: P. Pennathur and N. Bowman)*, Minority undergraduate engineering students at UI: Characterizing their successes and struggles with a research-based, data-driven approach," __Diversity Council, College of Engineering, University of Iowa__, 10/15/19-Present, **$ 5000**, Funded and Current.
 
 2. *Principal Investigator*, Understanding Planning and Execution Expertise Among Engineering Faculty: A Field Initiated, Practice Based Framework and Model,” __National Science Foundation__, 08/01/09 to 07/31/12, **$ 499,758**, Funded and Delivered.
