@@ -1,8 +1,46 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
+
+## Funded Competitive Grants
+
+1. *Principal Investigator (Co-PI: P. Pennathur and N. Bowman)*, Minority undergraduate engineering students at UI: Characterizing their successes and struggles with a research-based, data-driven approach," __Diversity Council, College of Engineering, University of Iowa__, 10/15/19-Present, **$ 5000**, Funded and Current.
+
+2. *Principal Investigator*, Understanding Planning and Execution Expertise Among Engineering Faculty: A Field Initiated, Practice Based Framework and Model,” __National Science Foundation__, 08/01/09 to 07/31/12, **$ 499,758**, Funded and Delivered.
+
+3. *Principal Investigator*, Cultivating a Culture of Technical Success and Leadership Excellence Among Hispanic Engineering Students: A Transformative Recruitment Model for Attracting High Achievers,” __National Science Foundation__, 09/01/09 to 08/31/14, **$ 579,697**, Funded and Delivered. 
+
+4. *Co-Principal Investigator (PI: D. Natalicio)*, I3: A Cyberinfrastructure and Communication-Based Model to Foster Innovation that Broadens Participation in STEM Fields through Institutional Integration,” __National Science Foundation__, 09/15/10 to 08/31/13, **$ 713,441**, Funded and Delivered. 
+
+5. *Co-Principal Investigator (PI: L. Everett)*, Cultivating Authentic Discourse for the 2020 Engineer,” __National Science Foundation__, 09/15/06 to 08/15/10, **$ 500,000**, Funded and Delivered.
+
+6. *Principal Investigator*, “Closing Health Disparities in Low-Resource Settings: Increasing Community Health Worker Effectiveness Through Work Systems Analysis,” __Anita Mochen Loya Innovation Fund__, University of Texas at El Paso, July 2011-December 2011, **$ 36,000**, Funded and Delivered.
+
+7. *Co-Principal Investigator (PI: R. Schoephoerster)*, “UTEP Biomedical Engineering Low-Resource Setting Program,” __US Department of Education, Funds for Improvement of Post Secondary Education Program (FIPSE)__, 01/01/10 to 12/31/11, __$ 299,959__, Funded and Delivered. 
+
+8. *Principal Investigator*, “Functional Anthropometry of Mexican American Elderly,” National Institute of General Medical Sciences, __National Institutes of Health__, 06/01/03 to 05/31/06, __$ 259,380__, Funded and Delivered.
+
+9. *Principal Investigator*, “Myocardial Oxygen Consumption as a Measure of Physical and Mental Workloads,” __US Army Research Laboratory__, 10/01/03-10/31/04, __$ 49,932__, Funded and Delivered. 
+
+10. *Principal Investigator*, “Reach Capabilities of Mexican American Elderly,” __Paso del Norte Health Foundation__, 12/31/02 to 06/30/04, __$75,710__, Funded and Delivered.
+
+11. *Principal Investigator*, “Enhancing Quality of Participation and Performance in Activities of Daily Living: Creating Strength Databases for the Aging Hispanic Population,” __University Research Institute__, University of Texas at El Paso, January 2001-May 2001, __$ 4,756__, Funded and Delivered.
+
+12. *Co-Principal Investigator (PI: A. Swift)*, “Enhancing Manufacturing Infrastructure in the El Paso-Juarez Border Region,” __SME Education Foundation,__ 07/01/01 to 10/31/03, __$ 682,918__, Funded and Delivered. 
+
+13. *Co-Principal Investigator (PI: S. Riccillo)*, “Frustration Reduction Models,” **US Army Research Laboratory,** 01/15/03 to 06/30/03, __$ 80,000__, Funded and Delivered.
+
+14. *Co-Principal Investigator (PI: S. Riccillo)*, “Development and Equipping of a Bio-Semiotic Laboratory,” **US Army Research Laboratory,** Performance Period: 07/02/03 to 07/30/04, __$ 132,289__, Funded and Delivered. 
+
+15. *Co-Principal Investigator (PI: S. Riccillo)*, “Frustration Reduction Models,” **US Army Research Laboratory,** 08/19/04 to 12/31/04, __$ 6000__, Funded and Delivered.
+
+16. *Co-Project Manager (PI: L. R. Contreras)*, “Manual Dexterity Assessments for Employable Workers,” **Greater El Paso Chamber of Commerce,** El Paso Workforce Development Center, 01/13/03 to 05/31/03, __$ 9,279__, Funded and Delivered. 
+
+17. *Co-Principal Investigator (PI: A. Fuentes)*, “Condition-Based Monitoring of Industrial Conveying Equipment for Predictive Maintenance,” **Savane International Corporation,** January 2000-October 2000, __$ 16,500__, Funded and Delivered.
+
+## Publications (A partial list)
 
 ### A. Books
 
@@ -209,3 +247,193 @@ permalink: /publications/
 44. A. Mital and A. Pennathur. Choosing Between Manual and Automated Methods for Assembly Operations: A Systematic Procedure, (On CD-ROM) Proceedings of the 5th Flexible Assembly Conference, ASME, Irvine, CA, 1996. 
 
 45. A. Pennathur and A. Mital. Skills and Training for Advanced Manufacturing, pp. 1161-1166, Proceedings of the 1st Annual International Conference on Industrial Engineering Applications and Practice, Houston, TX, 1996. 
+
+### F. Conference Presentations
+
+1. Work design for engineering education in a flat world: A global, virtual collaborative model, In ASEE 2008 Annual Conference, Pittsburgh, 2008.
+
+2. Cultivating authentic engineering discourse for the 2020 engineer: Methodological successes and struggles, In ASEE 2008 Pittsburgh Annual Conference, NSF Grantees Session.
+
+3. Aligning student learning, faculty development and engineering content: A framework for strategic planning of engineering instruction and assessment. In ASEE 2008 Pittsburgh Annual Conference.
+
+4. Workload estimation for concurrent physical and mental workload tasks, Presentation in IIE 2008 Annual Research Conference, Vancouver, BC, Canada.
+
+5. Two lectures to go with video please: Pedagogical aspects of podcasting in industrial engineering courses. In Annual International Industrial Engineering Applications and Practice Conference, September 2008, Las Vegas, NV. 
+
+6. Physical and Mental Workload Assessment Techniques for Job Design, Invited Speaker, 6th International Congress of the Society of Mexican Ergonomists (SEMAC) and the 10th Binational Mexico-US Ergonomics Meeting, Guanajuato, Mexico, May 27-31, 2004.
+
+7. Assessing Physical Activity and Dietary Intake in Older Adults, Invited Speaker, 5th International Congress of the Society of Mexican Ergonomists (SEMAC) and the 9th Binational Mexico-US Ergonomics Meeting, Cd. Juarez, Mexico, April 30-May 3, 2003.
+
+8. Anthropometry in Design, Invited Speaker at the IIIrd Congress of International Ergonomics and the 7th Reunion Binacional de Ergonomia Mexico-E.U.A., Tijuana, Mexico, May 2001.
+
+9. Human Machine Interface Design, Invited Speaker at the IIIrd Congress of International Ergonomics and the 7th Reunion Binacional de Ergonomia Mexico-E.U.A., Tijuana, Mexico, May 2001.
+
+10. “A Systematic Procedure for Improving Manufacturing Productivity Using Assistive Devices,” World Symposium on Group Technology/Cellular Manufacturing, San Juan, PR, 2000.
+
+11. Manual and Hybrid Inspection Performance at Different Levels of Production Volume, Line Speed and Inspection Complexity, World Symposium on Group Technology/Cellular Manufacturing, San Juan, PR, 2000.
+
+12. Aging and Performance in Manual Lifting Activities: An Experimental Investigation, 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, San Diego, CA, 2000.
+
+13. Aging and Performance in Manual Carrying Activities: An Experimental Investigation, 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, San Diego, CA, 2000.
+
+14. Evaluation of the Validity of Anthropometric Design Assumptions, 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, San Diego, CA, 2000.
+
+15. Comparison of Functional Capabilities of Individuals With and Without Fingers, Invited Speaker at The 6th Reunion Binacional de Ergonomia Mexico-E.U.A., Juarez, Mexico, 2000.
+
+16. Human-Centered Manufacturing: A Necessity for Enhancing Productivity and Competitiveness, 1999 SAE General, Corporate, and Regional Aviation Meeting, Wichita, KS, 1999.
+
+17. Technology Change and Worker Training: Lessons from a Case Study, 15th International Conference on Production Research, Limerick, Ireland, 1999.
+
+18. Back Injury Occurrences in the U.S. Workforce: Are We Solving the Real Problem? Accepted for Poster Presentation, 4th World Conference on Injury Prevention and Control, World Health Organization, Amsterdam, The Netherlands, May 1998.
+
+19. An Abbreviated Profile of Work Injuries in the United States, Global Ergonomics Conference,” Cape Town, South Africa, July 1998.
+
+20. Allocation of Inspection Functions, 2nd Annual International Conference on Industrial Engineering Applications and Practice sponsored by the University of Houston, University of Cincinnati and University of San Diego, San Diego, CA, November 1997.
+
+21. Ergonomics in Manufacturing, SME AUTOFACT ’97 Conference, Detroit, MI, November 1997.
+
+22. Ergonomics and Disability Management: Two Faces of the Same Coin, 47th International Industrial Engineering Conference and Exposition sponsored by the Institute of Industrial Engineers, Minneapolis, MN, May 1996.
+
+23. Choosing Between Manual and Automated Methods for Assembly Operations, 5th Flexible Assembly Conference sponsored by the American Society of Mechanical Engineers, Irvine, CA, August 1996.
+
+24. Skills and Training for Advanced Manufacturing, 1st Annual International Conference on Industrial Engineering Applications and Practice sponsored by the University of Houston and the University of Cincinnati, Houston, TX, December 1996.
+
+25. Single Machine Scheduling to Minimize the Sum of Weighted Squares of Lateness With a Maximum Tardiness, Joint Meeting of The Institute of Management Sciences and The Operations Research Society of America (now INFORMS), Detroit, MI, October 1994.
+
+### G. Conference Abstracts
+
+1. A. Pennathur, L.R. Contreras, N. Ahmed and K.S. Premkumar. “Upper Extremity Posture and Grip Strength in Older Mexican American Adults,” In Proceedings of the 2004 Annual Industrial Engineering Research Conference (IERC), Institute of Industrial Engineers, Houston, Texas, May 15-19, 2004. 
+
+2. K.S. Premkumar, A. Pennathur and L.R. Contreras. “Housing Design Considerations for Older Adults,” In Proceedings of the 7th Annual Applied Ergonomics Conference, Orlando, Florida, March 9-11, 2004.
+
+3. E. Martinez, G. Fierro and A. Pennathur. “Design and Development of Functional Anthropometric Profiles for the Elderly,” In Abstracts of the 5th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, Hsinchu, Taiwan, December 2000. 
+
+4. S. Chopra, A. Pennathur and A. Fuentes. “Equipment Condition Monitoring and Diagnostics for Predictive Maintenance: A Case Study,” In Abstracts of the 5th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, Hsinchu, Taiwan, December 2000. 
+
+5. A. Pennathur, A. Fuentes and L.R. Contreras. “Ergonomists, Designers and Manufacturing Engineers: Seeing Eye to Eye,” In Proceedings of the 2000 Annual Conference of the American Society of Engineering Education: Gulf-Southwest Section, Las Cruces, NM, 2000. 
+
+## Research Service Activities
+
+### A. Editorial Services
+
+1. Honorary Editor-in-Chief, International Journal of Industrial Engineering - Theory, Applications and Practice, 2014-Present.
+
+2. Editor-in-Chief, International Journal of Industrial Engineering - Theory, Applications and Practice, 2000-2014.
+
+3. Founding Editor-in-Chief, Journal of Applications and Practices in Engineering Education, July 2009-2013.
+
+4. Founding Scientific Council Member, Rio's International Journal of SISEM, 2007-Present.
+
+5. Managing Editor, International Journal of Industrial Engineering – Theory, Applications and Practice, 1999-2002. 
+
+6. Co-Editor, International Journal of Industrial Engineering – Theory, Applications and Practice, 2003-2004.
+
+7. Editorial Board Member, International Journal of Industrial Ergonomics, 2000-2010. 
+
+8. Editorial Assistant, Proceedings of the XIth Annual International Occupational Ergonomics and Safety Conference, Switzerland, 1998. 
+
+9. Managing Editor, Industrial and Occupational Ergonomics: Users Encyclopedia, Cincinnati, Ohio, 1999.
+
+10. Administrative Editor, Industrial Engineering Applications and Practice: Users Encyclopedia, Cincinnati, Ohio, 1999.
+
+11. Special Issue Editor, Accommodating the Disabled in the Workplace, Journal of Occupational Rehabilitation, Volume 11, Number 4, December 2001.
+
+12. Editor, Proceedings of the 6th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, ISBN 0-9654599-69, November 2001.
+
+### B. Professional Conference Organization Activities
+
+1. Vice-Chairman, Ergonomics in Manufacturing Session, SME AUTOFACT Conference, Detroit, Michigan, November 1997.
+
+2. Conference Chairman, North American Electrical Manufacturing Conference, El Paso, January 30-31, 2001.
+
+3. International Advisory Board Member, 4th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, San Antonio, November 1999.
+
+4. Session Chairman, Human Issues in Group Technology, World Symposium on Group Technology and Cellular Manufacturing, San Juan, PR, March 2000.
+
+5. Session Chairman, Anthropometry in Design, Joint Meeting of the 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, San Diego, August 2000.
+
+6. Session Chairman, Anthropometry, 5th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, Hsinchu, Taiwan, R.O.C., December 2000.
+
+7. Invited Guest, 5th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, Hsinchu, Taiwan, R.O.C., December 2000.
+
+8. International Advisory Board Member, 5th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, Hsinchu, Taiwan, R.O.C., December 2000.
+
+9. Organizing Committee Member, 5th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, Hsinchu, Taiwan, R.O.C., December 2000.
+
+10. Session Chairman, Technical Session 1: Laminates, Varnishes and Epoxies, North American Electrical Manufacturing Conference, El Paso, January 30, 2001.
+
+11. Session Chairman, Technical Session 2: Manufacturing in the Border Region: Problems and Opportunities, North American Electrical Manufacturing Conference, El Paso, January 30, 2001.
+
+12. Session Chairman, Technical Session 3: Manufacturing in the Border Region: Problems and Opportunities, North American Electrical Manufacturing Conference, El Paso, January 31, 2001.
+
+13. Session Chairman, Technical Session 4: Manufacturing in the Border Region: Problems and Opportunities, North American Electrical Manufacturing Conference, El Paso, January 31, 2001.
+
+14. Program Co-Chair, 6th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, San Francisco, November 18-20, 2001.
+
+15. Session Co-Chair, Session C8: Modern Industrial Practices, 6th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, San Francisco, November 19, 2001.
+
+16. Member of International Advisory Committee, 8th Annual International Conference on Industrial Engineering Theory, Applications and Practice, Las Vegas, NV, November 10-12, 2003.
+
+17. Session Chairman, Anthropometry, Annual Industrial Engineering Research Conference (IERC 2004), Houston, Texas, May 15-19, 2004. 
+
+18. Member of International Conference Program Committee, International Conference on Economic, Technical and Organizational aspects of Product Configuration Systems, Copenhagen, Denmark, June 28-29, 2004.
+
+19. Conference Organizing Committee Member, 10th Annual International Conference on Industrial Engineering Theory, Applications and Practice, Clearwater, Florida, Dec 4-7, 2005.
+
+20. Conference Organizing Committee Member, 11th Annual International Conference on Industrial Engineering Theory, Applications and Practice, New Zealand, 2006.
+
+21. Advisory Board Member, 12th Annual International Conference on Industrial Engineering Theory, Applications and Practice, Cancun, 2007.
+
+22. Advisory Board Member, 13th Annual International Conference on Industrial Engineering Theory, Applications and Practice, Las Vegas, 2008.
+
+23. Advisory Board Member, 14th Annual International Conference on Industrial Engineering Theory, Applications and Practice, Anaheim, CA, 2009.
+
+24. Conference Organizer and Technical Programs Chair, 1st Annual International Conference on Enhancing Resource Effectiveness in the Workplace, Nepal, 2009.
+
+25. Conference Chairman, ASEE Gulf Southwest Annual Conference, ASEE, El Paso, Texas 2012.
+
+### C. Reviewer for Research Journals, Books, Research Conferences, and Funding Agencies
+
+1. Project Evaluator, FIPSE Project, Energy Track in the Environmental Science and Engineering program, University of Texas at El Paso, 2010-Present.
+
+2. Reviewer, International Journal of Industrial Ergonomics
+
+3. Reviewer, International Journal of Industrial Engineering
+
+4. Reviewer, Computers and Industrial Engineering
+
+5. Reviewer, Experimental Aging Research
+
+6. Reviewer, Rio’s IJ SESIM
+
+7. Reviewer, International Journal of Manufacturing Technology & Management
+
+8. Reviewer, Optimal Control: Applications and Methods
+
+9. Invited Panelist and Reviewer, National Science Foundation, Summer 2007.
+
+10. Invited Panelist and Reviewer, National Institutes of Health, Summer 2009.
+
+11. Invited Reviewer, Louisiana EPSCOR Program, October 2009.
+
+12. Paper Reviewer, International Conference on Economic, Technical and Organizational aspects of Product Configuration Systems, Copenhagen, Denmark, June 28-29, 2004.
+
+13. Paper Reviewer, 2004 Annual Industrial Engineering Research Conference (IERC), Institute of Industrial Engineers, Houston, Texas, May 15-19, 2004. 
+
+14. Book Review, Gitlow, H., Oppenheim, A., and Oppenheim, R., “Quality Management:Tools and Methods for Improvement,” International Journal of Industrial Engineering - Applications & Practice, 3(4): 283, 1996.
+
+15. Book Review, DeGarmo, E.P., Sullivan, W.G., Bontadelli, J.A., Wicks, E.M., “Engineering Economy,” International Journal of Industrial Engineering – Applications & Practice, 4(2):144, 1997.
+
+16. Reviewed Applied Statistics and Probability for Engineers by Montgomery and Runger, 3rd Edition, John Wiley and Sons, 2002.
+
+17. Reviewer, ASEE Educational Research Methods Division Papers in Annual Conferences 
+
+18. Reviewer, IERC Annual Research Conferences 
+
+19. Reviewer, International Conference on Industrial Engineering Theory, Applications and Practice 
+
+20. Reviewer, International Conference on Enhancing Resource Effectiveness in the Workplace
+
+21. Book Reviewer, Statistics for Engineers and Scientists by William Navidi.
+
+22. Book Reviewer, Technical Writing for Engineers by W. Zeigler.

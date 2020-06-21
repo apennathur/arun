@@ -33,3 +33,5 @@ I've been teaching a variety of industrial and manufacturing engineering courses
 | Cognitive Work Analysis                           | Grad    | 3        |
 | Human Machine Interface Design                    | Grad    | 3        |
 | Human Factors in Healthcare Systems Design        | Grad    | 3        |
+
+
