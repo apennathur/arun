@@ -50,7 +50,7 @@ minima:
 header_pages:
  - grants.md
  - publications.md
- - conference presentations.md
+ - talks.md
  - teaching.md
 
 # Build settings

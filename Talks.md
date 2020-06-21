@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Conference Presentations
-permalink: /presentations/
+title: Talks
+permalink: /talks/
 ---
-### A. Conference Presentations
+### A. Conferences
 
 1. Work design for engineering education in a flat world: A global, virtual collaborative model, In ASEE 2008 Annual Conference, Pittsburgh, 2008.
 
